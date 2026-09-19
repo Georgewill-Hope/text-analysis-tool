@@ -1,0 +1,57 @@
+Nokia shares closed at $10.60 on Sept. 17, up about 62% year to date and more than 130% over the past 12 months. But the company also posted negative free cash flow of about $835 million during the second quarter, and the stock still trades far below its peak of around $29.
+
+What Cramer likes about Nokia's AI infrastructure setup
+"I like Nokia very much. I'm glad you brought it to our attention. I think it's a terrific situation, and I would be a buyer right here," Cramer said on the show, according to CNBC.
+
+His call was based on valuation and position. Nokia trades at approximately 22 times forward earnings, which is unusual in a market where AI-linked stocks usually see more than 30 times. 
+
+Cramer compared the stock with BWX Technologies (BWXT), a nuclear power supplier he passed on during the same episode because its "price-to-earnings multiple at 30 times is too high" for the current period of high interest rates.
+
+Nokia has repositioned itself as one of the few Western vendors selling core equipment for AI data centers. Under CEO Justin Hotard, the company earns revenue by supplying optical networking gear, IP routers, and fiber infrastructure to hyperscalers such as Microsoft (MSFT) and Google (GOOGL). It also maintains its traditional business of selling wireless network equipment to phone carriers. 
+
+This strategy is finally paying off, as tech giants are building large data centers, which is creating record demand for Nokia's high-speed optical networking gear.
+
+Coinbase (COIN) Derivatives asked the Commodity Futures Trading Commission (CFTC) on Friday to approve perpetual futures on individual U.S. stocks, which would reportedly include Apple (AAPL) and Tesla (TSLA) contracts.
+
+The filing urged the commission to approve "Equity Perpetual Contracts." Jane Downey, Coinbase Derivatives' chief regulatory officer, signed the letter, which explained the exchange intended to list the contracts "shortly following approval by the Commission, pending any additional necessary regulatory approvals."
+
+See what 10M+ investors are talking about. Get the Stocktwits Daily Rip for what retail is watching right now, free to your inbox
+
+The submission used an Apple contract as its representative specification, which was cash-settled, carried no fixed expiration, used hourly funding payments, and would trade from Sunday 8 p.m. Eastern Time (ET) to Friday 5 p.m. ET.
+
+This is important because perpetual futures, or "perps," never expire. Traders can hold leveraged long or short positions indefinitely, and a periodic funding payment keeps the contract price tied to the underlying asset. The structure was built offshore on crypto rails, and U.S. traders have largely been locked out of it.
+
+COIN stock closed in the green, up over 11% on Friday. On Stocktwits, the retail sentiment around COIN moved to the 'neutral' from the 'bearish' zone, while chatter around it stayed at 'high' levels over the past day.
+
+Apple, Tesla In Lineup
+
+The Wall Street Journal (WSJ) reported that Coinbase was the first company to file with the CFTC for U.S. single-stock perpetual futures. The Journal explained that Coinbase planned contracts on roughly 50 to 60 stocks, including Apple, Tesla, Microsoft (MSFT), and Nvidia (NVDA), with trading targeted for later this year. It further added that traders flocked to the offshore platform Hyperliquid (HYPE) for the same leveraged stock exposure.
+
+30 years later, all of these companies remain well-known names in the current economy. But it's fair to say that they don't at all resemble what the index looks like today. Microsoft is the only "Magnificent 7" stock still in the Top 10. Apple was in the midst of a corporate crisis until Steve Jobs eventually returned to the company. Nvidia, Amazon, Meta Platforms, Alphabet, and Tesla weren't even publicly traded companies (or didn't exist) back then.
+
+Missed AI's "Act 1"? Act 2 Could Be 15x Bigger. Most investors think they missed the AI boat because they didn't buy Nvidia in 2005. But according to our analysts, we're only at the end of "Act 1"—the R&D phase. "Act 2" is the global rollout. Continue »
+
+Economies evolve over time, sometimes significantly. When investing for the long term, you can try to pick stocks that will survive and thrive. Or you can buy an ETF that tracks the economy and provides broad exposure. That's why the Vanguard Total Stock Market ETF (NYSEMKT: VTI) is my choice for a core holding for a multidecade portfolio.
+
+If you had owned the S&P 500's top 10 holdings in 1996 and held them for the next 30 years, you probably would have still done fairly well. But you would have missed out on the emerging tech names that grew to dominate the market and economy over that time.
+
+Plus, the Vanguard Total Stock Market ETF owns the smaller companies that often turn into bigger companies down the road. By investing in the S&P 500, you limit yourself to just the large companies that have already established themselves. Adding small-cap and mid-caps to the mix potentially gets you in earlier on the next decade's leaders.
+
+That's why I'd own this ETF and have it act as the core of my portfolio over the next several decades. Its diversification, low cost, and ability to change over time make it an ideal long-term holding.
+
+Should you buy stock in Vanguard Morningstar Total Stock Market ETF right now?
+Before you buy stock in Vanguard Morningstar Total Stock Market ETF, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Vanguard Morningstar Total Stock Market ETF wasn't one of them. The 10 stocks that made the cut are built for long-term growth and could produce monster returns in the coming years.
+
+Consider when Netflix made this list on December 17, 2004... if you invested $1,000 at the time of our recommendation, you'd have $406,141!* Or when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you'd have $1,347,745!*
+
+That performance is why people listen. With a track record of beating the S&P 500 by 4x, Stock Advisor offers a distinct advantage. Don't miss the latest top 10 list, available with Stock Advisor, and join an investing community built for the long haul.
+
+See the 10 stocks »
+
+*Stock Advisor returns as of September 19, 2026.
+
+David Dierking has positions in Apple and Vanguard Morningstar Total Stock Market ETF. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, GE Aerospace, Intel, International Business Machines, Merck, Meta Platforms, Microsoft, Nvidia, Tesla, and Walmart. The Motley Fool recommends Johnson & Johnson. The Motley Fool has a disclosure policy.
+
+The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years. was originally published by The Motley Fool
