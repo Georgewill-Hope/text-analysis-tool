@@ -15,7 +15,7 @@ def extractBasicInfo(data):
     return basicInfo
 
 def getPriceHistory(company):
-    historyDf = company.history(period='1mo')
+    historyDf = company.history(period='12mo')
     prices = historyDf["Open"].to_list()
     dates = historyDf.index.strftime("%y-%m-%d").to_list()
     return{
@@ -32,7 +32,13 @@ def getEarningsDates(company):
     return futureDates
 
 def getCompanyNews(company):
-    newsList = company.news
+    companySymbol = company.info["symbol"]
+    search = yf.Search(
+        query=companySymbol,
+        news_count=10
+    )
+    newsList = search.news
+
     allNewsArticles = []
     for newsDict in newsList:
         newsDictToAdd = {
@@ -42,6 +48,8 @@ def getCompanyNews(company):
         allNewsArticles.append(newsDictToAdd)
     return allNewsArticles
     
+def extractCompanyNewsArticles(newsArticle):
+    print(newsArticle)
 
 def getCompanyStockInfo(tickerSymbol):
     # Get data from yahoo finance API
