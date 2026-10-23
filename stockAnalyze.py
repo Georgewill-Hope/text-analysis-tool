@@ -1,5 +1,6 @@
 import yfinance as yf
 from datetime import datetime
+import requests
 
 def extractBasicInfo(data):
     keysToExtract = ["longName", "website", "sector", "fullTimeEmployees", "marketCap", "totalRevenue", "trailingEps"]
@@ -48,8 +49,13 @@ def getCompanyNews(company):
         allNewsArticles.append(newsDictToAdd)
     return allNewsArticles
     
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+}
 def extractCompanyNewsArticles(newsArticle):
-    print(newsArticle)
+    url = newsArticle[0]["link"]
+    page = requests.get(url, headers=headers)
+    print(page.text)
 
 def getCompanyStockInfo(tickerSymbol):
     # Get data from yahoo finance API
@@ -60,5 +66,6 @@ def getCompanyStockInfo(tickerSymbol):
     priceHistory = getPriceHistory(company)
     futureEarningsDates = getEarningsDates(company)
     newsArticle = getCompanyNews(company)
+    extractCompanyNewsArticles(newsArticle)
 
 getCompanyStockInfo("MSFT")
